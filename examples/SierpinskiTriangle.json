@@ -1,0 +1,44 @@
+{
+  "num_iter": 200000,
+   "transformations":[
+      {
+         "linear_transformation_matrix":[
+            0.5,
+            0.0,
+            0.0,
+            0.5
+         ],
+         "translation_vector":[
+            0.0,
+            0.0
+         ],
+         "probability":0.333333333333
+      },
+      {
+         "linear_transformation_matrix":[
+            0.5,
+            0.0,
+            0.0,
+            0.5
+         ],
+         "translation_vector":[
+            0.5,
+            0.0
+         ],
+         "probability":0.333333333333
+      },
+      {
+         "linear_transformation_matrix":[
+            0.5,
+            0.0,
+            0.0,
+            0.5
+         ],
+         "translation_vector":[
+            0.25,
+            0.433012701892
+         ],
+         "probability":0.333333333333
+      }
+   ]
+}
